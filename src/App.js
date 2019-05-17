@@ -4,7 +4,9 @@ import NavBar from "./NavBar"
 //import AddressForm from "./Registration"
 //import SignIn from "./SignIn"
 //import LandingPage from "./LandingPage"
-import SelectPage from "./SelectPage"
+//import SelectPage from "./SelectPage"
+//import TablePage from "./TablePage"
+
 
 
 function App() {
@@ -15,7 +17,9 @@ function App() {
     {/* <AddressForm/> */}
     {/* <SignIn/> */}
     {/* <LandingPage/> */}
-    <SelectPage/>
+    {/* <SelectPage/> */}
+    {/* <TablePage/> */}
+   
     </div>
   );
 }
