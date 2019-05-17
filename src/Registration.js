@@ -32,7 +32,12 @@ function AddressForm() {
             <Typography variant="h6" gutterBottom>
                 Registration
       </Typography>
-            <Grid container spacing={24}>
+            <Grid container spacing={24}
+                container
+                direction="column"
+                justify="center"
+                alignItems="center"
+            >
                 <Grid item xs={8} sm={6} >
                 
                     <TextField
